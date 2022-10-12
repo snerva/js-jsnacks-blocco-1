@@ -1,8 +1,8 @@
 //L’utente inserisce due numeri in successione, con due prompt.
 const userNumber1 = prompt('Inserisci un numero:');
-console.log(userNumber1);
+//console.log(userNumber1);
 const userNumber2 = prompt('Inserisci un altro numero:');
-console.log(userNumber2);
+//console.log(userNumber2);
 
 const maxNumber = document.querySelector('h1');
 
